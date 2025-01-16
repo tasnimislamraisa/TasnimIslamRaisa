@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tasnim Islam Raisa</h1>
-<h3 align="center">A passionate 3rd-year Computer Science and Engineering student with a love for coding and creating innovative solutions. Currently, I'm diving deep into Flutter development to build beautiful and functional mobile applications.</h3>
+<h3 align="center">A passionate 4th-year Computer Science and Engineering student with a love for coding and creating innovative solutions. Currently, I'm diving deep into Flutter development to build beautiful and functional mobile applications.</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=tasnimislamraisa&label=Profile%20views&color=0e75b6&style=flat" alt="tasnimislamraisa" /> 
